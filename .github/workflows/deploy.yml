@@ -50,6 +50,7 @@ jobs:
           name: carStatsViewer.aab
           path: automotive/build/outputs/bundle/release/automotive-release.aab
           retention-days: 3
+          #
 #       - name: Deploy
 #         uses: r0adkll/upload-google-play@v1
 #         with:
